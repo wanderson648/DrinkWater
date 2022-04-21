@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">DrinkWater</string>
-    <string name="hint">Interval (min)</string>
+    <string name="hint">Intervalo (min)</string>
     <string name="notify">Notificar</string>
+    <string name="error_msg">Por favor digite o intervalo</string>
+    <string name="pause">PAUSAR</string>
 </resources>
